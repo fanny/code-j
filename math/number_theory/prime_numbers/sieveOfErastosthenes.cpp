@@ -9,7 +9,7 @@ vector<int> sieveOfErastosthenes(int limit){
 
     for (int i = 2; i <= limit; i++) {
         if (isPrime[i]) {
-            for (int j = 2*i; j <= limit; j += i) {
+            for (int j = i * i; j <= limit; j += i) {
                 isPrime[j] = false;
             }
             primes.push_back(i);
