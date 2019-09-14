@@ -1,6 +1,6 @@
 # Math
 
-My syllabus of math topics, that i need to learn.
+My syllabus of math topics.
 
 ### Number theory
 
