@@ -9,5 +9,5 @@ My collection of algorithms, data structures and other useful information for my
   - [`Combinatorics`](/math/combinatorics) *Coming soon*
   
 [`Graphs`]() *Coming soon*  
-[`Greedy Algorithms`]() *Coming Soon*
+[`Greedy Algorithms`]() *Coming Soon*  
 [`Dynamic Programming`]() *Coming Soon*
