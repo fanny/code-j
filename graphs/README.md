@@ -11,7 +11,8 @@
 
 **problems** - TOUR and BOTTOM on SPOJ.
 
-- Biconnected Components, Finding articulation points and bridges].
+- Biconnected Components, Finding articulation points and bridges.  
+
 **problems** - RELINETS, PT07A on SPOJ.
 
 - Dijkstra algorithm - 
